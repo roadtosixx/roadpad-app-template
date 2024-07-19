@@ -14,7 +14,7 @@ Go to roadpad/public/static/config/config.json, scroll down to AppStore and add 
 
 {
     "name": "Template App",
-    "icon": "/public/img/Apps/custom.jpg",
+    "icon": "/public/img/app/Apps/custom.jpg",
     "default": true,
     "category": "apps",
     "custom_app_id": "TEMPLATE_APP_1",
